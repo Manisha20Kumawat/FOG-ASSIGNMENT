@@ -1,0 +1,25 @@
+.footer {
+    padding: 20px 0;
+  }
+  
+  .footer-icon {
+    font-size: 2rem; /* Icon size */
+    color: #333; /* Icon color */
+  }
+  
+  .footer-text {
+    font-size: 1rem; /* Text size */
+  }
+  
+  .text-start {
+    text-align: left; /* Align text to the left */
+  }
+  
+  .ms-3 {
+    margin-left: 1rem; /* Spacing between icon and text */
+  }
+  
+  .d-flex {
+    display: flex; /* Flexbox layout */
+    align-items: center; /* Vertically align items */
+  }

@@ -1,0 +1,22 @@
+.navbar-nav .nav-item .nav-link {
+    color: black !important; 
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover,
+  .navbar-nav .nav-item .nav-link:focus {
+    color: black !important; 
+  }
+  
+  .navbar-nav .nav-item .nav-link.active {
+    color: black !important; 
+  }
+
+  
+.icon-black {
+  color: black !important; 
+}
+
+
+.icon-black:hover {
+  color: black !important; 
+}
